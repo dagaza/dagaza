@@ -50,21 +50,17 @@
 
 ## More about me
 
-- 💼 **Focus:** Building and scaling my own ventures, Qube and Plus One.
+### Product & platforms
 
-- 🧠 **Product Architecture & Leadership:** Working daily with Figma, Excalidraw, Cursor, and Azure DevOps while tracking research in AI, design, and systems thinking.
+Building and scaling **Qube** and **Plus One**. Day-to-day product architecture and leadership with Figma, Excalidraw, Cursor, and Azure DevOps, with ongoing research in AI, design, and systems thinking. Designed, architected, and product-managed CRMs, ERPs, KMSs, ATSs, CMSs, and marketing automation software.
 
-- 🛠 **Systems & Platforms:** Designed, architected, and product-managed CRMs, ERPs, KMSs, ATSs, CMSs, and marketing automation software.
+### Applied AI & digital craft
 
-- 🤖 **Applied AI:** Designed, trained, and deployed agentic LLM systems for customer support, sales outreach, onboarding, internal operations, and recruiting, as well as ML systems for prediction, scoring, and recommendation tools.
+Designed, trained, and deployed agentic LLM systems for customer support, sales outreach, onboarding, internal operations, and recruiting, plus ML for prediction, scoring, and recommendations. Tailored websites and digital footprints for local small businesses and professional portfolios.
 
-- 🌐 **Web Design & Sites:** Built tailored websites and digital footprints for local small businesses (service industries, studios) and professional portfolios.
+### Leadership & advisory
 
-- 🧑‍🤝‍🧑 **People Leadership:** Directed 20+ direct reports and cross-functional teams spanning 100+ contributors across product and engineering.
-
-- 🧭 **Academic & Project Mentorship:** Mentored engineering, business, and social science students on academic rigor, methodology design, and philosophy of science—guiding project scoping, literature reviews, stakeholder navigation, and emerging-tech roadmaps (AI, IoT, XR).
-
-- 💡 **Advisory & Consulting:** Bringing 10+ years of business consulting experience from my early career journey to advise founders, friends, and early-stage teams on turning concepts into reality.
+Directed 20+ direct reports and cross-functional teams spanning 100+ contributors across product and engineering. Mentored engineering, business, and social science students on academic rigor, methodology, and philosophy of science—project scoping, literature reviews, stakeholder navigation, and emerging-tech roadmaps (AI, IoT, XR). Ten-plus years of early-career business consulting inform advisory work with founders and early-stage teams.
 
 ---
 
