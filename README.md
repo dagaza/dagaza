@@ -50,6 +50,8 @@
 
 ## More about me
 
+In a market obsessed with disruption, I focus on construction—building resilient, responsible products and organizations that stand the test of time and ethics.
+
 ### Product & platforms
 
 Building and scaling **Qube** and **Plus One**. Day-to-day product architecture and leadership with Figma, Excalidraw, Cursor, and Azure DevOps, with ongoing research in AI, design, and systems thinking. Designed, architected, and product-managed CRMs, ERPs, KMSs, ATSs, CMSs, and marketing automation software.
