@@ -2,7 +2,7 @@
 
 # Hi, I'm Dan Zadobrischi · `dagaza`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&width=600&lines=Product+leader+by+day;FOSS+contributor+by+night;Privacy-first+%7C+Linux-native+software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4500&pause=500&color=58A6FF&center=true&width=600&lines=Product+leader+by+day;FOSS+contributor+by+night;Privacy-first+%7C+Linux-native+software)](https://git.io/typing-svg)
 
 **Copenhagen · The Public Domain**
 
@@ -70,7 +70,7 @@ Open Source • Interoperability • Repairability • Local-first • Inspectab
 
 <div align="center">
   <img height="250" src="https://github-readme-stats.vercel.app/api?username=dagaza&show_icons=true&theme=github_dark&include_all_commits=true&count_private=false&hide_border=true&bg_color=0d1117&card_width=520&text_bold=true" alt="GitHub stats" />
-  <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagaza&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=6&card_width=520&text_bold=true" alt="Top languages" />
+  <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagaza&layout=normal&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=5&card_width=520&text_bold=true&hide_progress=false" alt="Top languages" />
 </div>
 
 <div align="center">
