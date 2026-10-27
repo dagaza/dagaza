@@ -2,7 +2,7 @@
 
 # Hi, I'm Dan Zadobrischi · `dagaza`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4500&pause=500&color=58A6FF&center=true&width=720&lines=Product+Leader+by+day,+FOSS+contributor+by+night.;Ethics+and+privacy+advocate.;Sustainability,+repairability+%26+interoperability.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4500&pause=500&color=58A6FF&center=true&width=720&lines=Product+Leader+by+day,+FOSS+contributor+by+night.;Ethics+and+privacy+advocate.;Sustainability,+repairability+%26+interoperability.;Workaholic+for+good+causes.)](https://git.io/typing-svg)
 
 **Copenhagen · The Public Domain**
 
