@@ -50,7 +50,7 @@
 
 ## What I care about
 
-Open Source • Interoperability • Repairability • Sustainability • Local-first • Inspectable AI
+Open Source • Interoperability • Repairability • Sustainability • Local-first • Inspectable AI • Business Ethics • Legendary UX
 
 ---
 
