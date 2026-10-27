@@ -58,13 +58,10 @@ Open Source • Interoperability • Repairability • Sustainability • Local-
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,python,cpp,cmake,docker,ts,ruby,git,figma,obsidian" alt="Linux, Python, C++, CMake, Docker, TypeScript, Ruby, Git, Figma, Obsidian" />
+    <img src="https://skillicons.dev/icons?i=linux,python,cpp,cmake,docker,ts,ruby,git,figma,obsidian,azure,discord" alt="Linux, Python, C++, CMake, Docker, TypeScript, Ruby, Git, Figma, Obsidian, Azure, Discord" />
   </a>
-  <img src="https://az-icons.com/images/azure-devops/icon.svg" height="48" width="48" alt="Azure DevOps" />
-  <img src="https://az-icons.com/images/ai-foundry/icon.svg" height="48" width="48" alt="Azure AI Foundry" />
-  <img src="https://az-icons.com/images/azure-machine-learning/icon.svg" height="48" width="48" alt="Azure Machine Learning" />
   <img src="https://cdn.simpleicons.org/excalidraw/6965FD" height="48" width="48" alt="Excalidraw" />
-  <img src="https://cdn.simpleicons.org/cursor/E6EDF3" height="48" width="48" alt="Cursor" />
+  <img src="./assets/cursor-skillicon.svg" height="48" width="48" alt="Cursor" />
 </p>
 
 ---
