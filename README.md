@@ -2,17 +2,13 @@
 
 # Hi, I'm Dan Zadobrischi · `dagaza`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4500&pause=500&color=58A6FF&center=true&width=600&lines=Product+leader+by+day;FOSS+contributor+by+night;Privacy-first+%7C+Linux-native+software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4500&pause=500&color=58A6FF&center=true&width=720&lines=Product+Leader+by+day,+FOSS+contributor+by+night.;Ethics+and+privacy+advocate.;Sustainability,+repairability+%26+interoperability.+Workaholic+for+good+causes.)](https://git.io/typing-svg)
 
 **Copenhagen · The Public Domain**
 
-Ethics & privacy advocate · sustainability, repairability & interoperability
-
-Workaholic for good causes.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%2Fdagaza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dagaza)
 
-[![Website](https://img.shields.io/badge/Website-danzadobrischi.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.danzadobrischi.com/)
+[![Website](https://img.shields.io/badge/Website-danzadobrischi.com-111111?style=for-the-badge)](https://www.danzadobrischi.com/)
 
 </div>
 
