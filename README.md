@@ -70,7 +70,7 @@ Open Source • Interoperability • Repairability • Local-first • Inspectab
 
 <div align="center">
   <img width="520" src="https://github-readme-stats.vercel.app/api?username=dagaza&show_icons=true&theme=github_dark&include_all_commits=true&count_private=false&hide_border=true&bg_color=0d1117&card_width=520&text_bold=true" alt="GitHub stats" /><br />
-  <img width="520" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagaza&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=6&card_width=520&text_bold=true" alt="Top languages" />
+  <img width="520" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagaza&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=6&card_width=360&text_bold=true" alt="Top languages" />
 </div>
 
 <div align="center">
