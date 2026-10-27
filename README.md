@@ -64,6 +64,18 @@ Open Source • Interoperability • Repairability • Sustainability • Local-
 
 ---
 
+## 🤝 Let's collaborate
+
+I'm open to:
+
+- Working on open-source projects
+- Joining exciting tech teams
+- Helping small businesses build useful apps or websites
+
+Reach out on [LinkedIn](https://www.linkedin.com/in/dagaza) or via [danzadobrischi.com](https://www.danzadobrischi.com/).
+
+---
+
 ## GitHub activity
 
 <div align="center">
