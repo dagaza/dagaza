@@ -48,6 +48,26 @@
 
 ---
 
+## More about me
+
+- 💼 **Focus:** Building and scaling my own ventures, Qube and Plus One.
+
+- 🧠 **Product Architecture & Leadership:** Working daily with Figma, Excalidraw, Cursor, and Azure DevOps while tracking research in AI, design, and systems thinking.
+
+- 🛠 **Systems & Platforms:** Designed, architected, and product-managed CRMs, ERPs, KMSs, ATSs, CMSs, and marketing automation software.
+
+- 🤖 **Applied AI:** Designed, trained, and deployed agentic LLM systems for customer support, sales outreach, onboarding, internal operations, and recruiting, as well as ML systems for prediction, scoring, and recommendation tools.
+
+- 🌐 **Web Design & Sites:** Built tailored websites and digital footprints for local small businesses (service industries, studios) and professional portfolios.
+
+- 🧑‍🤝‍🧑 **People Leadership:** Directed 20+ direct reports and cross-functional teams spanning 100+ contributors across product and engineering.
+
+- 🧭 **Academic & Project Mentorship:** Mentored engineering, business, and social science students on academic rigor, methodology design, and philosophy of science—guiding project scoping, literature reviews, stakeholder navigation, and emerging-tech roadmaps (AI, IoT, XR).
+
+- 💡 **Advisory & Consulting:** Bringing 10+ years of business consulting experience from my early career journey to advise founders, friends, and early-stage teams on turning concepts into reality.
+
+---
+
 ## What I care about
 
 Open Source • Interoperability • Repairability • Sustainability • Local-first • Inspectable AI • Business Ethics • Legendary UX
