@@ -8,6 +8,8 @@
 
 Ethics & privacy advocate · sustainability, repairability & interoperability
 
+**Workaholic for good causes.**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%2Fdagaza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dagaza)
 
 </div>
@@ -19,16 +21,16 @@ Ethics & privacy advocate · sustainability, repairability & interoperability
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/dagaza/InkBridge">InkBridge</a></h3>
-      <p>Turn any Android device into a high-precision input surface for Linux — pressure, tilt, and low latency for artists and creators. A SuperDisplay-style alternative for the FOSS desktop.</p>
-      <p><strong>Stack:</strong> C++ · C · CMake · Linux</p>
-      <p>⭐ <a href="https://github.com/dagaza/InkBridge">github.com/dagaza/InkBridge</a></p>
-    </td>
-    <td width="50%" valign="top">
       <h3><a href="https://github.com/dagaza/Qube">Qube</a></h3>
       <p>Privacy-first desktop AI assistant: personal knowledge, long-term memory, and citation-grounded answers — entirely on your hardware.</p>
       <p><strong>Stack:</strong> Python · local LLMs · agents</p>
       <p>🌐 <a href="https://qubeapp.eu">qubeapp.eu</a> · ⭐ <a href="https://github.com/dagaza/Qube">GitHub</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/dagaza/InkBridge">InkBridge</a></h3>
+      <p>Turn any Android device into a high-precision input surface for Linux — pressure, tilt, and low latency for artists and creators. A SuperDisplay-style alternative for the FOSS desktop.</p>
+      <p><strong>Stack:</strong> C++ · C · CMake · Linux</p>
+      <p>⭐ <a href="https://github.com/dagaza/InkBridge">github.com/dagaza/InkBridge</a></p>
     </td>
   </tr>
   <tr>
@@ -50,7 +52,7 @@ Ethics & privacy advocate · sustainability, repairability & interoperability
 
 ## What I care about
 
-Local-first · inspectable AI · interoperable systems · software you can repair and trust
+Open Source *  Interoperability * Repairability * Local-first * Inspectable AI *
 
 ---
 
@@ -67,19 +69,19 @@ Local-first · inspectable AI · interoperable systems · software you can repai
 ## GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dagaza&show_icons=true&theme=github_dark&include_all_commits=true&count_private=false&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagaza&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top languages" />
+  <img height="210" src="https://github-readme-stats.vercel.app/api?username=dagaza&show_icons=true&theme=github_dark&include_all_commits=true&count_private=false&hide_border=true&bg_color=0d1117&card_width=520&text_bold=true" alt="GitHub stats" />
+  <img height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagaza&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8&card_width=380&text_bold=true" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dagaza&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=1f6feb&area=true" alt="Contribution graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dagaza&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=1f6feb&area=true&height=420&custom_title=Contribution%20activity&title_color=58a6ff&title_font_size=22" alt="Contribution graph" />
 </div>
 
 ---
 
 <div align="center">
 
-**Workaholic for good causes.** If something here helps you, a star on a repo is always appreciated.
+If something here helps you, a star on a repo is always appreciated.
 
 [![GitHub followers](https://img.shields.io/github/followers/dagaza?label=Follow&style=for-the-badge&logo=github&color=21262d)](https://github.com/dagaza?tab=followers)
 
