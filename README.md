@@ -57,11 +57,11 @@ Open Source • Interoperability • Repairability • Sustainability • Local-
 ## Tech I work with
 
 <p align="left">
+  <img src="./assets/cursor-skillicon.svg" height="48" width="48" alt="Cursor" />
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,python,cpp,cmake,docker,ts,ruby,git,figma,obsidian,azure,discord" alt="Linux, Python, C++, CMake, Docker, TypeScript, Ruby, Git, Figma, Obsidian, Azure, Discord" />
   </a>
   <img src="https://cdn.simpleicons.org/excalidraw/6965FD" height="48" width="48" alt="Excalidraw" />
-  <img src="./assets/cursor-skillicon.svg" height="48" width="48" alt="Cursor" />
 </p>
 
 ---
